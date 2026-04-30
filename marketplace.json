@@ -1,0 +1,21 @@
+{
+  "name": "hdcpa-research-marketplace",
+  "owner": {
+    "name": "HDCPA",
+    "email": "hhkim@hdcpa.co.kr"
+  },
+  "metadata": {
+    "description": "HDCPA company research marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "company-research",
+      "source": "./company-research-plugin",
+      "description": "Korean listed company investment research report generator",
+      "version": "1.0.0",
+      "category": "research",
+      "keywords": ["investment", "research", "due-diligence", "korean-stocks", "naver", "chrome", "docx"]
+    }
+  ]
+}
