@@ -1,0 +1,10 @@
+{
+  "name": "company-research",
+  "version": "1.0.0",
+  "description": "한국 상장기업 투자검토 종합 보고서 생성 플러그인. 네이버 뉴스 검색 API와 Claude in Chrome을 병렬 서브에이전트로 활용해 뉴스·시세·재무 데이터를 동시 수집하고, 표·차트가 포함된 5페이지 Word(.docx) 보고서로 자동 패키징합니다.",
+  "author": {
+    "name": "HDCPA",
+    "email": "hhkim@hdcpa.co.kr"
+  },
+  "keywords": ["investment", "research", "due-diligence", "korean-stocks", "naver", "chrome", "docx-report", "parallel-agents"]
+}
